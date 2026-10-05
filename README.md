@@ -212,3 +212,4 @@ Main endpoint groups:
 - Add CI pipeline (lint/test/build)
 - Add role-based authorization
 - Add observability (structured logging, metrics, tracing)
+# todo_fastApi
